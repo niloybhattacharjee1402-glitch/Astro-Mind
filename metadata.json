@@ -1,0 +1,6 @@
+{
+  "name": "AstroMind",
+  "description": "Autonomous Astronaut Health & Mission Support System - Deep Space Crew Health Intelligence Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
